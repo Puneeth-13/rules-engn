@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is     
+correct and try again.
+At line:1 char:1
++ git init
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
